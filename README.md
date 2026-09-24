@@ -2,8 +2,8 @@
 
 Personal Hebrew mini-podcast. Static site + RSS feed served by GitHub Pages.
 
-- Feed: https://aiaieshel-hub.github.io/musagim/feed.xml
-- Home: https://aiaieshel-hub.github.io/musagim/
+- Feed: https://aiaieshel-hub.github.io/musagim-drafts/feed.xml
+- Home: https://aiaieshel-hub.github.io/musagim-drafts/
 
 ## Publishing a new episode (daily)
 
