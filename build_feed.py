@@ -4,7 +4,7 @@ Daily update: add the new mp3 to episodes/, append an entry to episodes.json
 (with real byte size + duration), run this script, push."""
 import json, html, os, sys
 
-BASE = "https://aiaieshel-hub.github.io/musagim"
+BASE = "https://aiaieshel-hub.github.io/musagim-drafts"
 HERE = os.path.dirname(os.path.abspath(__file__))
 
 def fmt_dur(s):
